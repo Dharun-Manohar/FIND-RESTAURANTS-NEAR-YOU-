@@ -1,0 +1,61 @@
+.veg{
+    
+    bottom:0;
+	width:400px;
+	border-radius: 0px;
+	padding:30px 80px;
+    background:transparent;
+    margin-left: left;
+    margin-right: auto;
+    position:absolute;
+    top: 750px;
+    
+}
+
+.nonveg{
+    bottom:0;
+	width:400px;
+	border-radius: 20px;
+	padding:30px 80px;
+    background:transparent;
+    margin-left: auto;
+    margin-right: right;
+    position:absolute;
+    top: 750px;
+    right:0;
+}
+.footer{
+    left: 0;
+    bottom: 89%;
+    width: 100%;
+    background-color: #15e735;
+    color: black;
+    text-align: center;
+    font-family:Times New Roman;
+ }
+ .head{
+    background-color: #15e735;
+ }
+ .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+
+
+
+
+ 
